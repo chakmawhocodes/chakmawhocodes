@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
+## Welcome to Chakma Who Codes
+
+- 👨‍💻 We are ChakmaWhoCodes.
+- 📫 How to reach us: chakmawhocodes@gmail.com
 <!--
 **chakmawhocodes/chakmawhocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
